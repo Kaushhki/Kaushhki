@@ -89,12 +89,8 @@ Bilingual AI fact-checker — verifies claims against live web sources
 
 <div align="center">
 
-### 📊 &nbsp;GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kaushhki&show_icons=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=60A5FA&text_color=C9D1D9&ring_color=1E3A8A" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaushhki&layout=compact&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=8" width="38%"/>
 
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:3B82F6&height=3&width=100%" width="100%"/>
 
