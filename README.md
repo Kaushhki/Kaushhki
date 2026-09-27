@@ -38,53 +38,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:3B82F6&height=3&width=100%" width="100%"/>
 
-### 🚀 &nbsp;Featured Projects
+### 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🏦 [LoanGuard](https://github.com/Kaushhki/LoanGuard--Loan-default-risk-predict)**
-Loan default risk prediction & scoring — Logistic Regression vs Random Forest, AUC-ROC evaluated
-
-</td>
-<td width="50%" valign="top">
-
-**📊 [DebtSight](https://github.com/Kaushhki/DebtSight--collections-credit-risk)**
-Collections & credit-risk dashboard — cleaning → SQL aggregation → live reporting
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🚦 [GateKeeper](https://github.com/Kaushhki/GateKeeper)**
-Distributed rate limiter — Redis token bucket, Flask middleware, load-tested with CI
-
-</td>
-<td width="50%" valign="top">
-
-**📄 [DocSage](https://github.com/Kaushhki/DocSage)**
-AI financial document analyzer with an LLM-powered chat interface
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**📦 [StockMind AI](https://github.com/Kaushhki/StockMInd.AI)**
-Inventory forecasting agent — EOQ reorder logic + real-time AI chat assistant
-
-</td>
-<td width="50%" valign="top">
-
-**🕵️ [TruthScan](https://github.com/Kaushhki/TruthScan)**
-Bilingual AI fact-checker — verifies claims against live web sources
-
-</td>
-</tr>
-</table>
-
+| **📊 [DebtSight](https://github.com/Kaushhki/DebtSight--collections-credit-risk)** Collections & credit-risk analytics pipeline — synthetic loan data → SQL aggregation → stakeholder-ready dashboard | **🏦 [LoanGuard](https://github.com/Kaushhki/LoanGuard--Loan-default-risk-predict)** Loan default risk prediction — Logistic Regression vs Random Forest, live risk-scoring dashboard |
+| --- | --- |
+| **📄 [DocSage](https://github.com/Kaushhki/DocSage)** AI financial document analyzer with LLM-powered chat interface (Groq/LLaMA3 RAG) — [live demo](https://doc-sage-sepia.vercel.app) | **🚦 [GateKeeper](https://github.com/Kaushhki/GateKeeper)** Distributed rate limiter — Redis token bucket, Flask middleware, load-tested with CI |
+| **📦 [StockMind AI](https://github.com/Kaushhki/StockMInd.AI)** Inventory forecasting agent — EOQ reorder logic + conversational Streamlit dashboard | **🛒 [FlipViz](https://github.com/Kaushhki/FlipViz---Flipkart-Sales-Dashboard)** Flipkart sales dashboard — Python + Power BI, revenue trend & payment-pattern analysis |
+| **🧠 [NeuroScan](https://github.com/Kaushhki/NeuroScan--BrainMRI_Project)** Multi-task CNN classifying dementia stage & estimating age from brain MRI — 77% accuracy, 10.5-yr age MAE | **🕵️ [TruthScan](https://github.com/Kaushhki/TruthScan)** Bilingual (Hindi/English/Hinglish) AI fact-checker verifying claims against live web sources |
+| **🚆 [RailPulse](https://github.com/Kaushhki/RailPulse)** Mumbai train delay predictor — regression + clustering on 2,880 rows, isolates peak-hour/weekend effects | **📈 Startup Financial Health Analyzer** 🚧 *In Progress* |
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:3B82F6&height=3&width=100%" width="100%"/>
 
 <div align="center">
