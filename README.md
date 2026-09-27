@@ -1,4 +1,4 @@
-### Hi, I'm Kashish (Kiki) 👋
+### Hi, I'm Kashish👋
 
 B.Sc. (Honours) Data Science student, University of Mumbai — building
 ML/data projects with a focus on credit risk, financial analytics, and
